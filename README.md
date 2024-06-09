@@ -10,7 +10,7 @@ This project is a simple Node.js application that utilizes the Express framework
 
 
 ## 🚀 About Me
-I'm a full stack developer With 2.8 years of experience in the IT sector, I have honed my skills as a Full-Stack Developer. My tenure at a startup has enriched my proficiency in various programming languages, problem-solving, design aesthetics, project management, and web application development.
+I'm a full stack developer with 2.8 years of experience in the IT sector, I have honed my skills as a Full-Stack Developer. My tenure at a startup has enriched my proficiency in various programming languages, problem-solving, design aesthetics, project management, and web application development.
 
 ##
 ## 🔗 Links
