@@ -1,12 +1,12 @@
 const express = require('express')
 const app = express()
-const port = 8000
 app.get("/",(req, res) => {
-    res.send("Welcome to Tamizha github repo!")
+    res.send("Welcome to Tamizha Github repo!")
 })
-app.get("/demo",(req, res) => {
-    res.send("Console")
+app.get("/port",(req, res) => {
+    const port = server.address().port;
+    res.send(`App running on port ${assignedPort}.`)
 })
-app.listen(port, () => {
+app.listen(0, () => {
     console.log(`App running on port ${port}.`)
 })
